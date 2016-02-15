@@ -36,61 +36,12 @@ namespace Skype_Spamer_Pro
 
         }
 
-        private void label5_Click(object sender, EventArgs e)
-        {
-
-        }
 
         private void button2_Click(object sender, EventArgs e)
         {
             isWork = false;
             t = false;
             MessageBox.Show("Спам остоновлен");
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label3_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label4_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Pup_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Num_Letter_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void Thread_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void TExt_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void time_TextChanged(object sender, EventArgs e)
-        {
-
         }
 
         private void Tree_Click(object sender, EventArgs e)
